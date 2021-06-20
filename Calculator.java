@@ -1,8 +1,10 @@
 import java.util.Scanner;
 import java.Math.*;
 
+
 public class Calculator
 {
+    
     Scanner sc = new Scanner(System.in);
     int x;
     double a, b, x, res;
