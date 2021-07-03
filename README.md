@@ -1,6 +1,6 @@
-# desk-calculator-java
+# Desk Calculator Java
 
-	Desk Calculator designed in Java, having various functionalities:
+Desk Calculator designed in Java, having various functionalities:
 
 		Addition
 		Subtraction
