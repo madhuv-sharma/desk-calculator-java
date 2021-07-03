@@ -12,6 +12,9 @@ Desk Calculator designed in Java, having various functionalities:
 	Cosecant
 	Secant
 	Cotangent
+	Arc Sine
+	Arc Cosine
+	Arc Tangent
 	Natural Logarithm
 	Logarithm (Base 10)
 	Square Root
