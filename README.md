@@ -1,4 +1,4 @@
-# Desk Calculator Java
+# Java Desk Calculator
 
 Desk Calculator designed in Java, having various functionalities:
 
